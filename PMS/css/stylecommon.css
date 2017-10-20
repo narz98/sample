@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Arial';
+	background-color: lightgrey;
+}
+.wrap h1{
+	font-family: 'Arial';
+	color: green;
+	text-align: center;
+	margin-bottom: 200px;
+}
+.wrap .Student{
+		padding:5px;
+		width:250px;
+		height: 65px;
+		background-color: green;
+		color: #fff;
+		border-radius:3px;
+		border:0 
+		font-size:18px;
+		text-align: center;
+		border-spacing: 100px;
+		margin-left: 600px;
+		margin-bottom: 30px;
+		
+}
+.wrap .Company{
+		padding:5px;
+		width:250px;
+		height: 65px;
+		background-color: green;
+		color: #fff;
+		border-radius:3px;
+		border:0 
+		font-size:18px;
+		text-align: center;
+		border-spacing: 100px;
+		margin-left: 600px;
+}
+
